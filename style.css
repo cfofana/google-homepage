@@ -1,3 +1,8 @@
-body {
-    background-color: purple;
+.logo {
+    display: block;
+    margin: auto;
+}
+.search-box {
+    text-align: center;
+
 }
