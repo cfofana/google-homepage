@@ -72,6 +72,14 @@ a:hover, a:active {
     margin: auto;
     padding-top: 140px;
 }
+
+.search-form span {
+    color: #9AA0A6;
+    margin-top: 3px;
+}
+.search-form svg {
+    display: inline-block;
+}
 .search-form {
     text-align: center;
     border: none;
@@ -82,6 +90,14 @@ a:hover, a:active {
 }
 .search-box input {
     border: none;
+}
+.mic {
+    display: inline-block;
+    background: url('https://web.archive.org/web/20191130234609im_/https://www.gstatic.com/images/branding/googlemic/2x/googlemic_color_24dp.png') 0 0 no-repeat;
+    height: 24px;
+    width: 24px;
+    background-size: 24px;
+    vertical-align: middle;
 }
 .submit-btns {
     text-align: center;
