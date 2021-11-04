@@ -87,9 +87,13 @@ a:hover, a:active {
 .search-box {
     margin-bottom: 16px;
     border: none;
+    display: inline-block;
 }
 .search-box input {
     border: none;
+    width: 400px;
+    margin: 0 10px 0 10px;
+    outline: none;
 }
 .mic {
     display: inline-block;
