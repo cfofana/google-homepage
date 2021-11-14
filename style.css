@@ -1,5 +1,4 @@
 .container {
-    width: 95%;
     margin: auto;
 }
 header {
@@ -57,6 +56,7 @@ a:hover, a:active {
 }
 .blue-box {
     padding-left: 15px;
+    margin-right: 50px;
 }
 .sign-in {
     border: 1px solid #4285f4;
@@ -72,7 +72,7 @@ a:hover, a:active {
     display: block;
     margin: auto;
     padding-top: 140px;
-    padding-left: 160px;
+    padding-left: 190px;
 }
 
 .search-form span {
