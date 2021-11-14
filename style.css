@@ -87,7 +87,7 @@ a:hover, a:active {
     border: none;
 }
 .search-box {
-    margin-bottom: 16px;
+    margin: 5px 35px;
     border: none;
     display: inline-block;
 }
@@ -120,7 +120,7 @@ a:hover, a:active {
     height: 36px;
 }
 .search-area {
-    width: 522px;
+    width: 45.5%;
     border: 1px solid #dfe1e5;
     margin: auto;
     margin-top: 24px;
